@@ -1,9 +1,11 @@
 # Face_recognition
-￼
+
 Classification algorithm
+
 Preprocessing step. 
-Compute and save the thin QR decompositions of all the
-Be matrices, 
+
+Compute and save the thin QR decompositions of all the Be matrices, 
+
 Be = QeRe, e = 1,2,...,ne. % z is a test image.
 
 Compute zˆ = F T z.
